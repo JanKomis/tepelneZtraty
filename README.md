@@ -1,4 +1,4 @@
-# Teplotní ztráty
+# Tepelné ztráty
 
 <p>Program řeší výpočet teplotních ztrát a porovnává je s katalogem dostupných izolací dle tohoto zadání:
 
